@@ -1,7 +1,7 @@
 # Web Game: Lotto
 
+- 로또추첨기
 - https://mansaout.github.io/lotto/
-- ## 로또추첨기
 
 <br>
 
